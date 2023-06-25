@@ -10,8 +10,8 @@ import subprocess as sp 				#There is a error on subprocess. I Couldn't get it??
 import requests
 import smtplib
 import time
-import packets/comic
-import packets/users 
+import comic
+import users 
 import pytube
 import pyautogui
 import sys
