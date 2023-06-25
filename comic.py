@@ -1,0 +1,23 @@
+comics = {
+	'Assassination Classroom': r'C:\Users\HP\Desktop\Çizgi Roman\Assassiation Classroom',
+	'Batman & Spiderman': r'C:\Users\HP\Desktop\Çizgi Roman\Batman & Spider Man',
+	'Boba Fett': r'C:\Users\HP\Desktop\Çizgi Roman\Boba Fett',
+	'Darth Maul': r'C:\Users\HP\Desktop\Çizgi Roman\Darth Maul',
+	'Darth Vader': r'C:\Users\HP\Desktop\Çizgi Roman\Darth Vader',
+	'Deadpool': r'C:\Users\HP\Desktop\Çizgi Roman\Deadpool',
+	'Death Note': r'C:\Users\HP\Desktop\Çizgi Roman\Death Note',
+	'Earth-X': r'C:\Users\HP\Desktop\Çizgi Roman\Earth - X',
+	'FMA': r'C:\Users\HP\Desktop\Çizgi Roman\FMA',
+	'Immortal Hulk 01-11': r'C:\Users\HP\Desktop\Çizgi Roman\Immortal Hulk 001-011 (2018-2019)',
+	'Immortal Hulk 12-21': r'C:\Users\HP\Desktop\Çizgi Roman\Immortal Hulk 012-021 (2019)',
+	'Immortal Hulk 22-31': r'C:\Users\HP\Desktop\Çizgi Roman\Immortal Hulk 022-031 (2019-2020)',
+	'Infinity': r'C:\Users\HP\Desktop\Çizgi Roman\Infinity',
+	'Jango Fett': r'C:\Users\HP\Desktop\Çizgi Roman\Jango Fett',
+	'Jedi': r'C:\Users\HP\Desktop\Çizgi Roman\Jedi',
+	'Naruto': r'C:\Users\HP\Desktop\Çizgi Roman\Naruto',
+	'One Piece': r'C:\Users\HP\Desktop\Çizgi Roman\One Piece',
+	'Slam Dunk': r'C:\Users\HP\Desktop\Çizgi Roman\Slam Dunk\Slam Dunk\Slam Dunk',
+	'Solo Leveling': r'C:\Users\HP\Desktop\Çizgi Roman\Solo Leveling',
+	'Jedi vs Sith': r'C:\Users\HP\Desktop\Çizgi Roman\Star Wars Jedi Vs Sith',
+	'Tokyo Ghoul': r'C:\Users\HP\Desktop\Çizgi Roman\Tokyo Ghoul'
+}
