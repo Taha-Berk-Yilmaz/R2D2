@@ -13,8 +13,8 @@ python r2d2.py # Starts the assistant.
 - Some code lines needs to be rewriting by the user. (i.e. paths of apps, city that they live ...)<br>
 
 # Default Credentials
-> Default credentials of this program is **username : _user_ ; password : _password_**<br>
-> Then you can add your username and password to database with **_add user_** method
+> Default credentials of this program is **"username : _user_ ; password : _password_"**<br>
+> Then you can add your username and password to database with **"_add user_"** method
 
 # Contact
 - If you have a advice please contact me via my email address eytronturbocharged@gmail.com.<br>
