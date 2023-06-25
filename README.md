@@ -19,3 +19,6 @@ python r2d2.py # Starts the assistant.
 # Contact
 - If you have a advice please contact me via my email address eytronturbocharged@gmail.com.<br>
 - And if you want to support me please share with your friends.<br>
+
+# About
+- This program has feature that open comic books, manga etc. with **CDisplay.exe**. If you want to use this feature you have to look at comic folder in my github bio.😄
