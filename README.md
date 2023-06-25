@@ -1,7 +1,7 @@
 # <img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/3/3d/EmojiBlitzR2D21.png" width="50" height="50"> R2D2
 This is a extensible automated personal voice and text assistant.
 
-# Installation
+# Download
 ```python
 git clone https://github.com/Turbo-Charged-Eytron/R2D2.git
 pip install -r requirements.txt
